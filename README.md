@@ -1,6 +1,6 @@
 # WiseGlove-Robotics-Toolkit
 Python SDK &amp; ROS2 bridge for WiseGlove/WiseForce5D datagloves. Features 80Hz low-latency multi-modal data fusion (19-ch fiber optic tracking, 4-IMU pose estimation, 19-pt tactile sensing) &amp; closed-loop force-feedback exoskeleton control. Built for Embodied AI data collection, humanoid teleoperation, and VR simulation. 
-# WiseGlove Robotics Toolkit: Multi-Modal Teleoperation & ROS2 Driver
+# WiseGlove Robotics Toolkit: Multi-Modal Teleoperation & ROS2 Driver(多模态遥操作ROS系统开发包)
 An industrial-grade Python SDK and bidirectional ROS2 middleware for **WiseGlove 19E+** and **WiseForce5D Force-Feedback Exoskeleton Gloves**. Designed for Embodied AI data collection, humanoid dexterous hand tracking, and virtual reality teleoperation.
 ---
 ## 🛠️ Prerequisites & Installation
